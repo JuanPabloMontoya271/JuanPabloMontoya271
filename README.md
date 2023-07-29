@@ -1,4 +1,8 @@
-### Hi there 👋
+### Juan Pablo Montoya 
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
+</a>
 
 <!--
 **JuanPabloMontoya271/JuanPabloMontoya271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
