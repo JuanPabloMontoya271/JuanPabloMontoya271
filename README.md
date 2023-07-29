@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Juan-Pablo-Montoya-Estevez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanpablomontoyae@gmail.com)
 
-Welcome to my Github page! My name is Juan and I am currently finishing my Computer Science Bachelors degree at Tecnológico de Monterrey! 
+Welcome to my Github page! My name is Juan and I am currently finishing my Computer Science Bachelors<br> degree at Tecnológico de Monterrey! 
 
 #### I am passionate about : 
 - Computer Vision
@@ -19,10 +19,14 @@ Welcome to my Github page! My name is Juan and I am currently finishing my Compu
 - SWE Intern @ Cisco
 - R&D Intern @ Strategix4
 ### Entrepreneurship:
-- When I was in High School I founded BSN Technologies, a Health AI startup focused on Lung Nodule Detection in CT Scans
+- When I was in High School I founded BSN Technologies,<br>
+  a Health AI startup focused on Lung Nodule Detection in CT Scans
 - I have completed 15 Freelance Projects in the past 6 years.
 ### Publications:
-<a href="https://pubmed.ncbi.nlm.nih.gov/37214544/">Opportunistic BMD measurement using AutoBMD in CAC and lung cancer screening scans is promising and yields similar results</a> 
+ 
+- <a href="https://pubmed.ncbi.nlm.nih.gov/37214544/">Opportunistic AI-enabled Automated Bone Mineral Density Measurements<br> 
+In Lung Cancer Screening And Coronary Calcium Scoring CT Scans Are Equivalent</a> 
+
 
 <div>
 <a href="https://github.com/JuanPabloMontoya271" >
