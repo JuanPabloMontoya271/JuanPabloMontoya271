@@ -27,7 +27,7 @@ Welcome to my Github page! My name is Juan and I am currently finishing my Compu
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37214544/">Opportunistic AI-enabled Automated Bone Mineral Density Measurements<br> 
 In Lung Cancer Screening And Coronary Calcium Scoring CT Scans Are Equivalent</a> 
 
-
+<br>
 <div>
 <a href="https://github.com/JuanPabloMontoya271" >
   <img height= 200 src="https://github-readme-stats.vercel.app/api?username=JuanPabloMontoya271&show_icons=true&theme=react" />
