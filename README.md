@@ -6,6 +6,24 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanpablomontoyae@gmail.com)
 
 Welcome to my Github page! My name is Juan and I am currently finishing my Computer Science Bachelors degree at Tecnológico de Monterrey! 
+
+#### I am passionate about : 
+- Computer Vision
+- Medical Imaging Analysis
+- Large Language Models
+- Predictive Systems
+- Entrepreneurship
+#### My Work Experiences:
+- SWE Intern @ Microsoft
+- Explore Intern @ Microsoft
+- SWE Intern @ Cisco
+- R&D Intern @ Strategix4
+### Entrepreneurship:
+- When I was in High School I founded BSN Technologies, a Health AI startup focused on Lung Nodule Detection in CT Scans
+- I have completed 15 Freelance Projects in the past 6 years.
+### Publications:
+<a href="https://pubmed.ncbi.nlm.nih.gov/37214544/">Opportunistic BMD measurement using AutoBMD in CAC and lung cancer screening scans is promising and yields similar results</a> 
+
 <div>
 <a href="https://github.com/JuanPabloMontoya271" >
   <img height= 200 src="https://github-readme-stats.vercel.app/api?username=JuanPabloMontoya271&show_icons=true&theme=react" />
