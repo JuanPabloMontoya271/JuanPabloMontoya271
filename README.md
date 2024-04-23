@@ -11,6 +11,8 @@ Welcome to my Github page! My name is Juan and I am currently finishing my Compu
 - Computer Vision
 - Medical Imaging Analysis
 - Large Language Models
+- Mixed Reality
+- Robotics
 - Predictive Systems
 - Entrepreneurship
 #### My Work Experiences:
