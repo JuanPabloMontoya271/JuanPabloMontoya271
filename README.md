@@ -16,6 +16,7 @@ Welcome to my Github page! My name is Juan and I am currently finishing my Compu
 - Predictive Systems
 - Entrepreneurship
 #### My Work Experiences:
+- AI @ Google 
 - SWE Intern @ Microsoft
 - Explore Intern @ Microsoft
 - SWE Intern @ Cisco
