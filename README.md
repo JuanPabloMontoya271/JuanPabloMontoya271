@@ -17,10 +17,9 @@ Welcome to my Github page! My name is Juan and I am currently finishing my Compu
 - Entrepreneurship
 #### My Work Experiences:
 - AI @ Google 
-- SWE Intern @ Microsoft
-- Explore Intern @ Microsoft
-- SWE Intern @ Cisco
-- R&D Intern @ Strategix4
+- SWE @ Microsoft
+- SWE @ Cisco
+- R&D @ Strategix4
 ### Entrepreneurship:
 - When I was in High School I founded BSN Technologies,<br>
   a Health AI startup focused on Lung Nodule Detection in CT Scans
